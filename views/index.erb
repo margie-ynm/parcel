@@ -1,0 +1,29 @@
+<h1>BM Shipping Costs</h1>
+<form action="/results">
+  <div class="form-group">
+    <label><strong>Size</strong></label>
+     <label for="side1">Enter side 1 (in inches):</label>
+     <input name="side1" type="number">
+     <br>
+     <label for="side2">Enter side 2 (in inches):</label>
+     <input name="side2" type="number">
+     <br>
+     <label for="side3">Enter side 3 (in inches):</label>
+     <input name="side3" type="number">
+     <br>
+     <label for='distance'>Enter distance in miles</label>
+     <input name="distance" type="text">
+     <br>
+     <label for="weight"><strong>Weight (in pounds):</strong></label>
+     <input name='weight' type = "text">
+     <br>
+     <label for="shipping_time"><strong>Delivery speed:</strong></label>
+     <select name="speed">
+       <option></option>
+       <option value = "2">Next Day Air</option>
+       <option value = "5">3 to 5 Business Days</option>
+       <option value = "9">6 to 14 Business Days</option>
+     </select>
+  </div>
+  <button type="submit" class="btn-success">Find Out Now!</button>
+</form>
