@@ -1,12 +1,12 @@
-# _Triangle_
+# _Parcel_
 
-#### _Create a triangle and find it's type, 11/28/16_
+#### _Input parcel dimensions, weight, distance traveled, delivery speed and output cost, 11/28/16_
 
 #### By _**Bill Klinkow & Margie Nevarez**_
 
 ## Description
 
-_This application defines a new class "Triangle" and creates the method "type" to determine what type of triangle a user has inputted._
+_This application takes the user's inputs and outputs shipping cost._
 
 ## Setup/Installation Requirements
 
