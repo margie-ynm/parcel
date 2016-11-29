@@ -11,7 +11,7 @@ _This application takes the user's inputs and outputs shipping cost._
 ## Setup/Installation Requirements
 
 * _Make sure you have git, ruby, and bundler gem installed._
-* _From the command line type "git clone https://github.com/klinkow/triangle.git" to download the webapp files._
+* _From the command line type "git clone https://github.com/margie-ynm/triangle.git" to download the webapp files._
 * _Navigate to the download directory in the command line and enter "bundle" to download additional required gems._
 * _Enter "ruby app.rb" to host the site locally._
 * _Navigate browser to "localhost:4567" (unless previous step indicates a different local host number)._
